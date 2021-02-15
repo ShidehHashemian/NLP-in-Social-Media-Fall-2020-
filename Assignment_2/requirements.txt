@@ -1,0 +1,3 @@
+numpy==1.18.5
+hazm==0.7.0
+parsivar==0.2.3
